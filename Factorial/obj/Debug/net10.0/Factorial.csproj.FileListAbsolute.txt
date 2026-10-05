@@ -1,0 +1,14 @@
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Factorial\obj\Debug\net10.0\ref\Factorial.dll

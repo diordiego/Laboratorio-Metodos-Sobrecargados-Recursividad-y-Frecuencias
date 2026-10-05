@@ -1,0 +1,14 @@
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\bin\Debug\net10.0\Frecuencias.exe
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\bin\Debug\net10.0\Frecuencias.deps.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\bin\Debug\net10.0\Frecuencias.runtimeconfig.json
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\bin\Debug\net10.0\Frecuencias.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\bin\Debug\net10.0\Frecuencias.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.AssemblyInfoInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.AssemblyInfo.cs
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.csproj.CoreCompileInputs.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\refint\Frecuencias.dll
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.pdb
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\Frecuencias.genruntimeconfig.cache
+C:\Users\drsgo\OneDrive\Documentos\HPA III\Lab Metodos Sobrecargados Recursividad y Frecuencia\Frecuencias\obj\Debug\net10.0\ref\Frecuencias.dll
